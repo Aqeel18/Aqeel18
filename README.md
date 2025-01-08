@@ -27,7 +27,7 @@ Here are some of the tools and technologies I’ve been working with:
 ## 🖥️ Projects
 Here are a few projects I’ve worked on:
 
-- **[2 pass assembler](#)**: A two-pass assembler using html,css and js  
+- **[2 pass assembler](https://github.com/Aqeel18/GUI-SS-.git)**: A two-pass assembler using html,css and js  
 ---
 
 ## 📈 GitHub Stats
