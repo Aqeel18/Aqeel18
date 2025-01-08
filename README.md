@@ -37,7 +37,5 @@ Here are a few projects I’ve worked on:
 
 ## 🌐 Connect with Me
 - [LinkedIn](www.linkedin.com/in/muhammed-aqeel-haroon-a05564331)  
-- 
----
 
 Feel free to explore my repositories and connect with me for collaboration! 😊
