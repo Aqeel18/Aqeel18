@@ -29,12 +29,6 @@ Here are a few projects I’ve worked on:
 
 - **[2 pass assembler](https://github.com/Aqeel18/GUI-SS-.git)**: A two-pass assembler using html,css and js  
 ---
-
-//## 📈 GitHub Stats
-//![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Connect with Me
 - [LinkedIn](www.linkedin.com/in/muhammed-aqeel-haroon-a05564331)  
 
