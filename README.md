@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
 ---
 
 ## 🚀 About Me
-- 🎓 I’m currently a 3rd year student pursuing a degree in Computer Science and Engineering at Amal Jyothi College of Engineering.
+- 🎓 I’m currently a 4th year student pursuing a degree in Computer Science and Engineering at Amal Jyothi College of Engineering.
 - 🌱 I’m currently learning: Web development and Data Structures & Algorithms.
 - 💡 I enjoy solving coding challenges, building projects, and contributing to open-source.
 - 🤔 Looking to collaborate on: Full-stack projects, open-source contributions, and hackathons.
@@ -19,7 +19,7 @@ Here are some of the tools and technologies I’ve been working with:
 - **Languages**: HTML,CSS,JavaScript ,C, Python, Java
 - **Frameworks**: React, Node.js, Flask  
 - **Database**: MySQL, MongoDB  
-- **Tools**: Git, GitHub, VS Code, Figma  
+- **Tools**: Git, GitHub, VS Code
 - **Other Interests**: Competitive Programming
 
 ---
