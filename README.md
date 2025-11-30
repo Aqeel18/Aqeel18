@@ -27,9 +27,10 @@ Welcome to my GitHub profile! I am an enthusiastic Computer Science and Engineer
 
 Here are a few projects I’ve worked on or contributed to:
 
-- **[2 Pass Assembler](https://github.com/Aqeel18/GUI-SS-.git):** A two-pass assembler using HTML, CSS, and JavaScript.
-- **smartrim:** [Add your project description or link here]
-- **lamer.ind:** [Add your project description or link here]
+- **[2 Pass Assembler](https://github.com/Aqeel18/GUI-SS-.git):** A two-pass assembler developed using HTML, CSS, and JavaScript.
+- **[Student Management System](https://github.com/Aqeel18/Student-Management-System):** A comprehensive management system for students, built with HTML, Python, CSS, and JavaScript.
+- **[Smart Trim 360](https://github.com/Aqeel18/Smart_Trim_360):** An interactive project implemented entirely in Jupyter Notebook.
+- **[Lamer.ind](https://github.com/Aqeel18/Lamer):** The completed Lamer.ind project, focusing on web development with JavaScript, CSS, and HTML.
 
 ---
 
