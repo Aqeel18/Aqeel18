@@ -1,35 +1,39 @@
-# Hi there! 👋 I'm Muhammed Aqeel Haroon  
+# Hi there! 👋 I'm Muhammed Aqeel Haroon
 
-Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering (CSE) student, eager to learn and explore the world of technology. 🚀
+Welcome to my GitHub profile! I am an enthusiastic Computer Science and Engineering student with a keen interest in technology and innovation. 
 
 ---
 
 ## 🚀 About Me
-- 🎓 I’m currently a 4th year student pursuing a degree in Computer Science and Engineering at Amal Jyothi College of Engineering.
-- 🌱 I’m currently learning: Web development and Data Structures & Algorithms.
-- 💡 I enjoy solving coding challenges, building projects, and contributing to open-source.
-- 🤔 Looking to collaborate on: Full-stack projects, open-source contributions, and hackathons.
-- 📫 How to reach me: contactaqeel007@gmail.com
+- 🎓 Currently a 4th-year student pursuing Computer Science and Engineering at Amal Jyothi College of Engineering.
+- 🌱 Continuously learning modern web development, data structures, and algorithms.
+- 💡 Passionate about solving coding challenges, building impactful projects, and contributing to open-source.
+- 🤝 Open to collaboration on full-stack projects, open-source initiatives, and hackathons.
+- 📫 Reach me at: contactaqeel007@gmail.com
 
 ---
 
 ## 🛠️ Skills & Tools
-Here are some of the tools and technologies I’ve been working with:
 
-- **Languages**: HTML,CSS,JavaScript ,C, Python, Java
-- **Frameworks**: React, Node.js, Flask  
-- **Database**: MySQL, MongoDB  
-- **Tools**: Git, GitHub, VS Code
-- **Other Interests**: Competitive Programming
+**Languages:** HTML, CSS, JavaScript, C, Python, Java  
+**Frameworks:** React, Node.js, Flask  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, VS Code  
+**Other Interests:** Competitive Programming
 
 ---
 
 ## 🖥️ Projects
-Here are a few projects I’ve worked on:
 
-- **[2 pass assembler](https://github.com/Aqeel18/GUI-SS-.git)**: A two-pass assembler using html,css and js  
+Here are a few projects I’ve worked on or contributed to:
+
+- **[2 Pass Assembler](https://github.com/Aqeel18/GUI-SS-.git):** A two-pass assembler using HTML, CSS, and JavaScript.
+- **smartrim:** [Add your project description or link here]
+- **lamer.ind:** [Add your project description or link here]
+
 ---
-## 🌐 Connect with Me
-- [LinkedIn](www.linkedin.com/in/muhammed-aqeel-haroon-a05564331)  
 
-Feel free to explore my repositories and connect with me for collaboration! 😊
+## 🌐 Connect with Me
+- [LinkedIn](https://linkedin.com/in/mhdaqeel07)
+
+Feel free to explore my repositories and connect for collaboration! 😊
