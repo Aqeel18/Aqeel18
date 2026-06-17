@@ -1,18 +1,122 @@
-# 💫 About Me:
-## 👨‍💻 About Me  <br><br>Computer Science graduate and early-career Software Engineer passionate about building scalable applications and solving real-world problems through code.  <br>Currently working as a **Software Engineer Intern at 0**, gaining hands-on industry experience in real-world software development and engineering workflows.  <br>Experienced in **Python, JavaScript, Django, React, Node.js, Express, MongoDB, SQL, Git, and REST API development**, with strong interest in **backend engineering, scalable systems, cloud technologies, and AI-powered applications**.  <br>I enjoy building end-to-end products, writing clean and maintainable code, and continuously improving my understanding of software architecture and modern engineering practices.  <br>Currently focused on becoming a stronger engineer by building impactful projects and learning technologies that scale.  <br>🚀 Always learning. Always building.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=250&section=header&text=Hi There, I'm Aqeel&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer Science Undergrad | Full-Stack Developer&descAlignY=60&descSize=16&descColor=F1EFFF" width="100%" alt="Header banner"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_m.aqeel_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mhdaqeel07/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contactaqeel007@gmai.com) 
+<a href="https://github.com/Aqeel18">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=480&height=40&lines=4th-Year+CSE+Student;Full-Stack+Web+Developer;DSA+%26+Competitive+Programmer;Open-Source+Enthusiast" alt="Typing SVG"/>
+</a>
 
-# 💻 Tech Stack:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aqeel18&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Aqeel18&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aqeel18&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhdaqeel07)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactaqeel007@gmail.com)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+- 🎓 4th-year **Computer Science & Engineering** student at **Amal Jyothi College of Engineering**
+- 🌱 Continuously sharpening my skills in modern web development, data structures, and algorithms
+- 💡 Enjoy turning ideas into working full-stack applications — from a browser-based assembler to a full e-commerce platform
+- 🤝 Open to collaborating on full-stack projects, open-source contributions, and hackathons
+- 📫 Reach me at **contactaqeel007@gmail.com**
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,py,java" alt="language icons"/>
+
+**Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask" alt="framework icons"/>
+
+**Databases & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" alt="tool icons"/>
+
+<br/>
+
+## 🖥️ Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🛒 [Lamer.ind](https://github.com/Aqeel18/Lamer)**
+
+Full MERN-stack e-commerce platform with a customer storefront, a REST API backend, and a separate admin dashboard for managing products and orders.
+
+`JavaScript` `Node.js` `Express` `CSS`
+
+</td>
+<td width="50%" valign="top">
+
+**🎓 [Student Management System](https://github.com/Aqeel18/Student-Management-System)**
+
+A web app for managing student records, pairing a Python backend with an HTML, CSS, and JavaScript front end.
+
+`Python` `HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧮 [Two-Pass Assembler](https://github.com/Aqeel18/GUI-SS-)**
+
+Browser-based simulator that performs two-pass assembly translation — symbol-table resolution in pass one, object-code generation in pass two.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+**✂️ [Smart Trim 360](https://github.com/Aqeel18/Smart_Trim_360)**
+
+A data-driven mini-project built and explored entirely within Jupyter Notebook.
+
+`Python` `Jupyter Notebook`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aqeel18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aqeel's GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=Aqeel18&theme=tokyonight&hide_border=true" alt="Aqeel's GitHub streak" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqeel18&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Aqeel18&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophies"/>
+</p>
+
+<br/>
+
+<div align="center">
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhdaqeel07)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactaqeel007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aqeel18)
+
+Thanks for stopping by — feel free to explore my repos and reach out!
+
+<img src="https://komarev.com/ghpvc/?username=Aqeel18&label=Profile%20Views&color=6366F1&style=flat" alt="Profile views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:6366F1&height=120&section=footer" width="100%" alt="Footer banner"/>
+
+</div>
