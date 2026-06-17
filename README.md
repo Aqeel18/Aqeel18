@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=250&section=header&text=Hi There, I'm Aqeel&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer Science Undergrad | Full-Stack Developer&descAlignY=60&descSize=16&descColor=F1EFFF" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=250&section=header&text=Hi%20There%2C%20I%27m%20Aqeel&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer%20Science%20Undergrad%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16&descColor=F1EFFF" width="100%" alt="Header banner"/>
 
 <a href="https://github.com/Aqeel18">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=480&height=40&lines=4th-Year+CSE+Student;Full-Stack+Web+Developer;DSA+%26+Competitive+Programmer;Open-Source+Enthusiast" alt="Typing SVG"/>
@@ -17,29 +17,32 @@
 
 ## 🚀 About Me
 
-- 🎓 4th-year **Computer Science & Engineering** student at **Amal Jyothi College of Engineering**
-- 🌱 Continuously sharpening my skills in modern web development, data structures, and algorithms
-- 💡 Enjoy turning ideas into working full-stack applications — from a browser-based assembler to a full e-commerce platform
-- 🤝 Open to collaborating on full-stack projects, open-source contributions, and hackathons
-- 📫 Reach me at **contactaqeel007@gmail.com**
+🎓 Computer Science graduate and early-career Software Engineer passionate about building scalable applications and solving real-world problems through code.<br>
+💼 Currently working as a Software Engineer Intern, gaining hands-on experience in real-world software development and engineering workflows.<br>
+💻 Experienced in Python, JavaScript, Django, React, Node.js, Express, MongoDB, SQL, Git, and REST API development.<br>
+🚀 Strongly interested in backend engineering, scalable systems, cloud technologies, and AI-powered applications.<br>
+🌱 Continuously improving my skills in software architecture, modern engineering practices, and scalable application development.<br>
+💡 Enjoy building end-to-end products, writing clean and maintainable code, and turning ideas into impactful software solutions.<br>
+🤝 Open to collaborating on full-stack projects, open-source contributions, and hackathons.<br>
+📫 Reach me at: **contactaqeel007@gmail.com**<br>
+🔥 Always learning. Always building.
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,c,py,java" alt="language icons"/>
+**Languages** <br/><img src="https://skillicons.dev/icons?i=html,css,js,ts,c,java,python,php" />
 
-**Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask" alt="framework icons"/>
+**Frontend & Backend** <br/> <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,tailwind" />
 
-**Databases & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" alt="tool icons"/>
+**Databases**<br/> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 
-<br/>
+**AI / ML**<br/> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+**Tools & Platforms** <br/> <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
+
+**Data Science** <br/> <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,keras" />
+
 
 ## 🖥️ Featured Projects
 
@@ -65,15 +68,6 @@ A web app for managing student records, pairing a Python backend with an HTML, C
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-**🧮 [Two-Pass Assembler](https://github.com/Aqeel18/GUI-SS-)**
-
-Browser-based simulator that performs two-pass assembly translation — symbol-table resolution in pass one, object-code generation in pass two.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
 <td width="50%" valign="top">
 
 **✂️ [Smart Trim 360](https://github.com/Aqeel18/Smart_Trim_360)**
